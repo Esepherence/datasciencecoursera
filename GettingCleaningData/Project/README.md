@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
 
-#Tidy Dataset
+#run_analysis.R
 
 Raw data from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
